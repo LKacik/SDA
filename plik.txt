@@ -1,3 +1,1 @@
 Inna wersja teo pliku nadpisze poprzednią.
-
-Dodanie nowej eksperymentalnej funkcji.
